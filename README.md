@@ -7,5 +7,5 @@ The user should be able to input a reminder, the app should be able to store the
 
 ##The programming language used is Python
 
-##The 
+##License: MIT
 
